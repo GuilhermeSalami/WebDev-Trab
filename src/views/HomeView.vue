@@ -165,15 +165,15 @@
             </v-col>
             <v-col cols="12" sm="4">
               <v-card class="mx-auto" max-width="344" height="">
-                <v-img src="watase.jpg" height="200px" cover></v-img>
+                <v-img src="akiyama3.jpg" height="200px" cover></v-img>
 
-                <v-card-title> Até estranjeiros aceitam </v-card-title>
+                <v-card-title> Contatos com agiotas </v-card-title>
 
                 <v-card-subtitle>
-                  Masaru Watase | 22 Dec 2019
+                  Shun Akiyama | 20 Dec 2015
                 </v-card-subtitle>
                 <v-card-text>
-                  Ex Chefe da Aliança Omi.
+                  Dono da Sky Finance
                 </v-card-text>
               </v-card>
             </v-col>
